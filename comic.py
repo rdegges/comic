@@ -2,5 +2,5 @@
     comic
     ~~~~~
 
-    A static site generator, built to render webcomics.
+    A static site generator built to render webcomics.
 """
