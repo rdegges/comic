@@ -1,4 +1,9 @@
 # -*- coding: utf-8 -*-
+"""
+Package definition.
+
+This file holds package version information and other metadata.
+"""
 
 
 __version__ = '0.0.1'
